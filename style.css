@@ -1,0 +1,43 @@
+body
+{
+    background-color: #555B63;
+    color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+main
+{
+    background-color: #35383f;
+    width: 400px;
+    margin: auto;
+}
+
+.titulo
+{
+    border: 3px #ffffff solid ;
+    border-radius: 10px;
+    width: 370px;
+    margin: auto;
+    padding: 10px;
+}
+
+.motivos
+{
+    border: 3px #ffffff solid ;
+    border-radius: 10px;
+    margin: auto;
+    width: 370px;
+    padding: 10px;
+    text-align: center;
+}
+
+.eventos
+{
+    border: 3px #ffffff solid ;
+    border-radius: 10px;
+    margin: auto;
+    width: 370px;
+    padding: 10px;
+    text-align: center;
+
+}
