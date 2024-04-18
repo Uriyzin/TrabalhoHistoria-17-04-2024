@@ -1,19 +1,23 @@
 body
-{
-    background-color: #555B63;
+{   
+    
+    
+    background-color: rgb(63,62,62);
+    background: gray;
+    background: linear-gradient(90deg,rgb(94,94,95) 0%, rgb(74,74,83)35%, rgb(120,122,122)100%);
     color: #ffffff;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 main
 {
-    background-color: #35383f;
-    width: 400px;
+    width: 1000px;
     margin: auto;
 }
 
 .titulo
-{
+{   
+    background-color: rgb(63,62,62);
     border: 3px #ffffff solid ;
     border-radius: 10px;
     width: 370px;
@@ -22,22 +26,30 @@ main
 }
 
 .motivos
-{
+{   
+    background-color: rgb(63,62,62);
     border: 3px #ffffff solid ;
     border-radius: 10px;
     margin: auto;
     width: 370px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.eventos
+{   
+    background-color: rgb(63,62,62);
+    border: 3px #ffffff solid ;
+    border-radius: 10px;
+    width: 370px;
+    margin: auto;
     padding: 10px;
     text-align: center;
 }
 
-.eventos
+.principal
 {
-    border: 3px #ffffff solid ;
-    border-radius: 10px;
-    margin: auto;
-    width: 370px;
-    padding: 10px;
-    text-align: center;
-
+    display: flex;
 }
