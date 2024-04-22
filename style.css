@@ -17,7 +17,7 @@ main
 
 .titulo
 {   
-    background-color: rgb(63,62,62);
+    background-color: red;
     border: 3px #ffffff solid ;
     border-radius: 10px;
     width: 370px;
