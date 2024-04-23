@@ -1,16 +1,70 @@
 body
 {
-    background-color: rgb(63, 62, 62);
     background: gray;
     background: linear-gradient(90deg, rgb(94, 94, 95) 0%, rgb(74, 74, 83) 35%, rgb(120, 122, 122) 100%); 
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+    margin-top: 50px;
+}
+
+main
+{
+    margin: auto;
+    width: 1200px;
 }
 
 h1
 {
-    background-color: red;
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    width: 400px;
+    background-color: rgb(63,62,62)
 }
-h2
+
+.vietna
 {
-    color: red;
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    width: 500px;
+    background-color: rgb(63,62,62)
+}
+
+.coreia
+{
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    width: 500px;
+    background-color: rgb(63,62,62)
+}
+
+.legado
+{
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    width: 500px;
+    background-color: rgb(63,62,62)
+}
+
+.fim
+{
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    width: 500px;
+    background-color: rgb(63,62,62)
+}
+
+.origensguerrafria
+{
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    width: 500px;
+    background-color: rgb(63,62,62)
+}
+
+.bloqueio
+{
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    width: 500px;
+    background-color: rgb(63,62,62)
 }
