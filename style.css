@@ -13,13 +13,13 @@
     }
 body
 {
-    background-color: #3f3e3e;
+    background-color: rgb(63, 62, 62);
     background: gray;
-    background: linear-gradient(90deg, #5e5e5f 0%, #4a4a53 35%, #787a7a 100%);
+    background: linear-gradient(90deg, rgb(94, 94, 95) 0%, rgb(74, 74, 83) 35%, rgb(120, 122, 122) 100%);
 }
 h2
 {
-    color: #790000;
+    color: rgb(121, 0, 0);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 95px;
     margin-top: 100px;
@@ -34,39 +34,42 @@ h2
     display: flex;
     justify-content: space-between;
     margin-top: 8px;
+
 }
 a
 {
     margin-top: 7px;
-    color: #790000;
+    color: rgb(121, 0, 0);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: small;
 }
 p
 {
-    color: #ccd2d7;
+    color: rgb(204, 210, 215);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size:medium;
     text-align: center;
+    margin-bottom: 70px;
 }
 h3
 {
-    color: #790000;
+    color: rgb(121, 0, 0);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: xx-large;
     font-size: 30px;
     text-align: center;
+    margin-bottom: 15px;
 }
 .back
 {
-    background-color: #d94c4c;
+    background-color: rgb(217, 76, 76);
     margin: 5px;
     border-radius: 6px;
-
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: larger;
     text-align: center;
     margin: center;
+    width: 100%;
 }
 
 .texto
@@ -76,13 +79,18 @@ h3
     width: 1300px;
     text-align: justify;
 }
-img
-{
-    margin-top: 30px;
-    margin-left: 600px;
-}
+
 .link
 {
-    margin-left: 700px;
-    color: #0fa0a0;
+    margin: auto;
+    color: rgb(15, 160, 160);
+    margin-bottom: 30px;
+}
+
+article
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;
 }
