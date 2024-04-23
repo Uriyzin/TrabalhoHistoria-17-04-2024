@@ -1,44 +1,17 @@
 body
 {
-    background-color: rgb(63, 62, 62);
-    background:linear-gradient(90deg, rgb(94,94,95)0%,
-    rgb(74,74,83)35%, rgb(120, 122 , 122)100%);
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    background-color: #3f3e3e;
+    background: gray;
+    background: linear-gradient(90deg, #5e5e5f 0%, #4a4a53 35%, #787a7a 100%);
 }
 
 h1
 {
-    color: #ffffff;
-}
-
-.palmeirascenter
-{
-    background-color: rgb(63, 62, 62);
-    border: 15px #ffffff solid;
-    border-radius: 19px;
-    width: 1030px;
-    margin: auto;
-    padding: 10px;
-    display: flex;
-    justify-content: center;
-    font-size: x-large;
-}
-
-center
-{
-    background-color: rgb(63, 62, 62);
-    border: 15px #ffffff solid;
-    border-radius: 19px;
+    color: aliceblue;
+    margin-top: 300px;
+    font-size: xxx-large;
+    border: 10px solid #ffffff;
+    border-radius: 10px;
     width: 1000px;
-    margin: auto;
-    padding: 30px;
-    
-}
-
-.eixo
-{
-    margin: auto;
     padding: 10px;
-    display: flex;
-    justify-content: center;
 }
