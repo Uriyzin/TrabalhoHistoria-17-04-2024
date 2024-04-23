@@ -1,0 +1,88 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+    .cabeçalho {
+        background-image: url(CANVA.jpg);
+        height: 450px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+body
+{
+    background-color: #3f3e3e;
+    background: gray;
+    background: linear-gradient(90deg, #5e5e5f 0%, #4a4a53 35%, #787a7a 100%);
+}
+h2
+{
+    color: #790000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 95px;
+    margin-top: 100px;
+    word-spacing: 10px;
+}
+
+.SpaceBetween
+{
+    width: 400px;
+    margin: auto;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+}
+a
+{
+    margin-top: 7px;
+    color: #790000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+}
+p
+{
+    color: #ccd2d7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:medium;
+    text-align: center;
+}
+h3
+{
+    color: #790000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-size: 30px;
+    text-align: center;
+}
+.back
+{
+    background-color: #d94c4c;
+    margin: 5px;
+    border-radius: 6px;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-align: center;
+    margin: center;
+}
+
+.texto
+{
+    margin: auto;
+    margin-top: 40px;
+    width: 1300px;
+    text-align: justify;
+}
+img
+{
+    margin-top: 30px;
+    margin-left: 600px;
+}
+.link
+{
+    margin-left: 700px;
+    color: #0fa0a0;
+}
