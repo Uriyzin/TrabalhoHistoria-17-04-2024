@@ -1,0 +1,16 @@
+body
+{
+    background-color: rgb(63, 62, 62);
+    background: gray;
+    background: linear-gradient(90deg, rgb(94, 94, 95) 0%, rgb(74, 74, 83) 35%, rgb(120, 122, 122) 100%); 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1
+{
+    background-color: red;
+}
+h2
+{
+    color: red;
+}
