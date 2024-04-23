@@ -3,22 +3,36 @@ body
    background-color: rgb (63, 62, 62);
    background: rgb(95, 94, 94);
    background: -moz-linear-gradient(90deg, rgb(94, 94, 95) 0%, rgb (74, 74, 83) 35%, rgb(120, 122, 122 ) 100% );
-}
-.p 
-{
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+   color: #ffffff;
 }
-h1
+
+main
 {
- background-color: rgb(231, 9, 9);
-
-
+    width: 1500px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
 }
-h2
-{
-   color: rgb(231, 9, 9)
 
+.local
+{
+   background-color: rgb(63,62,62);
+   border: 3px #ffffff solid ;
+   border-radius: 10px;
+   width: 370px;
+   margin: auto;
+   padding: 15px;
+}
+
+.paises
+{
+   background-color: rgb(63,62,62);
+   border: 3px #ffffff solid ;
+   border-radius: 10px;
+   width: 370px;
+   margin: auto;
+   padding: 15px;
 }
 
 
