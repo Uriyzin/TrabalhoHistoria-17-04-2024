@@ -3,6 +3,7 @@ body
     background-color: #3f3e3e;
     background: gray;
     background: linear-gradient(90deg, #5e5e5f 0%, #4a4a53 35%, #787a7a 100%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h1
@@ -14,4 +15,5 @@ h1
     border-radius: 10px;
     width: 1000px;
     padding: 10px;
+    background-color: rgb(63,62,62);
 }

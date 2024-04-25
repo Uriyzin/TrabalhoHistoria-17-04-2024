@@ -15,14 +15,35 @@ main
     text-align: center;
 }
 
-.local
-{
+h1
+{   
    background-color: rgb(63,62,62);
    border: 3px #ffffff solid ;
    border-radius: 10px;
    width: 370px;
    margin: auto;
    padding: 15px;
+}
+
+.primeira
+{
+    display: flex;
+}
+
+.segunda
+{
+    display: flex;
+}
+
+.local
+{
+   background-color: rgb(63,62,62);
+   border: 3px #ffffff solid ;
+   border-radius: 10px;
+   width: 500px;
+   margin: auto;
+   padding: 15px;
+   text-align: center;
 }
 
 .paises
@@ -30,14 +51,52 @@ main
    background-color: rgb(63,62,62);
    border: 3px #ffffff solid ;
    border-radius: 10px;
-   width: 370px;
+   width: 500px;
    margin: auto;
    padding: 15px;
+   text-align: center;
 }
 
-
-
+.sobrearmas
+{
+   background-color: rgb(63,62,62);
+   border: 3px #ffffff solid ;
+   border-radius: 10px;
+   width: 500px;
+   margin: auto;
+   padding: 15px;
+   text-align: center;
+}
   
+.armamentos
+{
+   background-color: rgb(63,62,62);
+   border: 3px #ffffff solid ;
+   border-radius: 10px;
+   width: 500px;
+   margin: auto;
+   padding: 15px;
+   text-align: center;
+}
 
+.consequencias
+{
+   background-color: rgb(63,62,62);
+   border: 3px #ffffff solid ;
+   border-radius: 10px;
+   width: 500px;
+   margin: auto;
+   padding: 15px;
+   text-align: center;
+}
 
-
+.resumo
+{
+   background-color: rgb(63,62,62);
+   border: 3px #ffffff solid ;
+   border-radius: 10px;
+   width: 500px;
+   margin: auto;
+   padding: 15px;
+   text-align: center;
+}
